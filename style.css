@@ -1,0 +1,12 @@
+.calc-row {
+    height: 100vh;
+    font-family: 'Share Tech Mono', monospace;
+}
+
+.input-window {
+    text-align: left;
+    font-size: x-large;
+}
+.card-body{
+    background-color: black;
+}
