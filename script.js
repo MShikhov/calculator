@@ -47,7 +47,7 @@ document.getElementById("btn_sum").addEventListener("click", function () {
 document.getElementById("btn_def").addEventListener("click", function () {
   lastOperand = parseInt(inputWindow.value);
   operation = "def";
-  inputWindow.value = "-";
+  inputWindow.value = "";
 });
 document.getElementById("btn_mult").addEventListener("click", function () {
     lastOperand = parseInt(inputWindow.value);
